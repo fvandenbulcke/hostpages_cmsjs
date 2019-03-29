@@ -1,7 +1,7 @@
 ---
 title: LMPT
 ---
-
+<div>
 <h2>EDITOR DA APLICAÇÃO MÓVEL</h2>
 A presente aplicação móvel "Cartão Da Casa" é publicada pela empresa :
 <h3>ADEO SERVICES</h3>
@@ -23,3 +23,4 @@ SA com conselho de administração com um capital de 31.674.335 €<v-spacer></v
 <h3>ADEO SERVICES</h3>
 SA com conselho de administração com um capital de 31.674.335 € <v-spacer></v-spacer>
 <h4>Endereço :</h4> 135, rue Sadi Carnot – CS 00001, 59790 RONCHIN, França
+</div>
