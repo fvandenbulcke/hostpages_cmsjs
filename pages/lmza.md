@@ -1,8 +1,8 @@
 ---
-title: LMPT
+title: LMZA
 ---
 
-<div class="body-credits" v-if="buName === 'ZALM'">
+<div class="body-credits">
   <h2>PUBLISHER OF THE MOBILE APPLICATION</h2>
   This mobile application "My Home Card" is published by the company :
   <h3>ADEO SERVICES</h3>
